@@ -1,5 +1,8 @@
 # Rare: The Publishing Platform for the Discerning Writer
 
+This Client Side application existed as an exercise in building a full stack user-specific communication tool.
+The back end was built with Python without a framework. The code for that project can be found <a href="https://github.com/nch66862/rare-server-tragic-trolls">here</a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Utilities
